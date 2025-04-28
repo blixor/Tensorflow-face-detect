@@ -1,7 +1,5 @@
-# BlazeFace TFLite Inference
- Python scripts to detect faces using Python with the BlazeFace Tensorflow Lite models. Tested on Windows 10, Tensorflow 2.4.0 (Python 3.8).
+ Python scripts to detect faces using Python. Tested on Windows 10, Tensorflow 2.4.0 (Python 3.8).
 
-![!BlazeFace detection tflite](https://github.com/ibaiGorordo/BlazeFace-TFLite-Inference/blob/main/doc/img/output.jpg)
 
 # Requirements
 
@@ -40,8 +38,6 @@ pip install pafy youtube-dl
  ```
  python videoFaceDetection.py
  ```
- 
- ![!BlazeFace detection tflite video](https://github.com/ibaiGorordo/BlazeFace-TFLite-Inference/blob/main/doc/img/video%20output.gif)
 
  
  
